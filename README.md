@@ -13,12 +13,12 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🚀 About Me</h2>
 </div>
 
 <p align="center">
-I’m Joel, a cybersecurity-focused software engineer from Puerto Rico with a background in full stack development, backend systems, Linux, networking, and web application security.
+I’m Joel, a software engineer from Puerto Rico with a background in full stack development, backend systems, Linux, networking, cybersecurity and web application security.
 </p>
 
 <p align="center">
