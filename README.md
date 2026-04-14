@@ -1,61 +1,135 @@
 <div align="center">
-<h2><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Joel!;Welcome...;to+my+Github!;" alt="Typing SVG"/></h2>
-</div>
 
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a passionate Software Engineering Student at Holberton Coding School in San Juan, Puerto Rico, where I currently pursue a certificate in Computer Science Foundations and Software Engineering. My technical range is growing, learning everyday and staying up to date with tech trends</p>
-</div>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=34&duration=2800&color=33FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Joel+%F0%9F%A4%99;Cybersecurity+%2B+Full+Stack+Development;I+build+with+a+security+mindset" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joel.caban2017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcaban90/)
+<p>
+  <strong>Cybersecurity-focused Software Engineer</strong><br>
+  Puerto Rico 🇵🇷 | Full Stack Development | Web Security | Backend | Linux
+</p>
 
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> During my coding journey, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <h2>🚀 About Me</h2>
+</div>
+
+<p align="center">
+I’m Joel, a cybersecurity-focused software engineer from Puerto Rico with a background in full stack development, backend systems, Linux, networking, and web application security.
+</p>
+
+<p align="center">
+My work sits right in the middle of <strong>software engineering</strong> and <strong>cybersecurity</strong>. I enjoy building useful things, understanding how systems work under the hood, and learning how to make them more secure.
+</p>
+
+<p align="center">
+Here on GitHub you’ll find a mix of full stack projects, backend work, and hands-on cybersecurity labs covering web security, reverse engineering, networking, Linux, and vulnerability-focused testing.
+</p>
+
+---
+
+<div align="center">
+  <h2>🧠 What I’m Focused On</h2>
+</div>
+
+<p align="center">
+🔹 Building secure web applications and backend systems<br>
+🔹 Growing in cybersecurity, reverse engineering, and security tooling<br>
+🔹 Combining development + security into real-world projects<br>
+🔹 Always learning, always building
+</p>
+
+---
+
+<div align="center">
+  <h2>🔥 Featured Projects</h2>
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications.</p>
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| Project | What it is |
+|--------|------------|
+| [**Watchly**](https://github.com/123pescao/Watchly) | Web monitoring MVP focused on uptime tracking, alerts, and backend functionality |
+| [**HBnB Project**](https://github.com/123pescao/holbertonschool-hbnb) | Full stack hospitality platform built with Flask, JWT, SQLAlchemy, HTML, CSS, and JavaScript |
+| [**Cybersecurity Projects**](https://github.com/123pescao/holbertonschool-cyber_security) | Hands-on labs across web security, Linux security, recon, exploitation, and incident response |
+| [**Reverse Engineering**](https://github.com/123pescao/holbertonschool-reverse_engineering) | Coursework and projects focused on static and dynamic analysis |
+| [**Mobile Security**](https://github.com/123pescao/holbertonschool-mobile_Security) | Mobile security learning, analysis, and hands-on practice |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>💻 Tech Stack</h2>
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p></p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/></td>
-    </tr>
- </table>
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=123pescao&theme=github_dark&utcOffset=10" alt="Joel's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/></td>
-    </tr>
- </table>
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web / Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cybersecurity / Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <p>
+    I’m always open to connecting about cybersecurity, software engineering,
+    backend development, and interesting projects.
+  </p>
+
+  <a href="mailto:joel.caban2017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joelcaban90/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123pescao&theme=github_dark" alt="Joel's GitHub Stats"/>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with discipline, curiosity, and a security mindset 🤙</sub>
 </div>
