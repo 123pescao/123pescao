@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=34&duration=2800&color=33FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Joel+%F0%9F%A4%99;Cybersecurity+%2B+Full+Stack+Development;I+build+with+a+security+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=34&duration=2800&color=33FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Joel" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -105,10 +105,10 @@ Here on GitHub you’ll find a mix of full stack projects, backend work, and han
     backend development, and interesting projects.
   </p>
 
-  <a href="mailto:joel.caban2017@gmail.com">
+  <a href="mailto:jelicabandev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/joelcaban90/">
+  <a href="https://www.linkedin.com/in/jcaban26/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
