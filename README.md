@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  <strong>Cybersecurity-focused Software Engineer</strong><br>
+  <strong>Software Developer</strong><br>
   Puerto Rico 🇵🇷 | Full Stack Development | Web Security | Backend | Linux
 </p>
 
